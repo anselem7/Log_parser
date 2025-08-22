@@ -7,7 +7,7 @@
 - Gain hands-on experience in automation for log analysis and foundational cybersecurity monitoring skills.
 <br><br>
 
-## 🛠️Tools Used
+## 🛠️Tools Used 
 
 - Python 3 → for writing the log parser.
 
