@@ -60,8 +60,8 @@
 
 ### 3. Script Development
 
-- Wrote a Python script that:
--  1. Opens the log file
+ Wrote a Python script that:
+   1. Opens the log file
    2. Gets user input
    3. Search & output the ip address in the log file  
 
