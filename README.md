@@ -39,18 +39,18 @@
 
 <br><br>
 ### 1. Setup Environment
-
+<br><br>
 <img width="1419" height="671" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/9da5913e-12ad-4042-a4bb-404b9f7c9539" />
 
 *Installed Ubuntu on a virtual machine(VirtualBox)*
 <br><br>
-- Ensured Python 3 and Apache were configured.
+Ensured Python 3 and Apache were configured.
 <br><br>
 <br><br>
 
 ### 2. Log Collection
-
-- Accessed web server logs (Apache/Nginx, if available) & Copied test logs for safe analysis.
+<br><br>
+Accessed web server logs (Apache/Nginx, if available) & Copied test logs for safe analysis.
 
 <img width="1123" height="720" alt="Screenshot (1147)1" src="https://github.com/user-attachments/assets/31a7b054-1eb6-4dba-a4cc-1bb2f6df051e" />
 
@@ -60,10 +60,10 @@
 
 ### 3. Script Development
 
- Wrote a Python script that:
-   1. Opens the log file
-   2. Gets user input
-   3. Search & output the ip address in the log file  
+Wrote a Python script that:
+ - Opens the log file
+ - Gets user input
+ - Search & output the ip address in the log file  
 
 <img width="1403" height="874" alt="Screenshot (1144)" src="https://github.com/user-attachments/assets/a446cfef-f0df-4cc5-8324-ffdc9ae62298" />
 
