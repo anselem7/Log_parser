@@ -44,13 +44,13 @@
 
 *Installed Ubuntu on a virtual machine(VirtualBox)*
 <br><br>
-Ensured Python 3 and Apache were configured.
+```Ensured Python 3 and Apache were configured.```
 <br><br>
 <br><br>
 
 ### 2. Log Collection
 <br><br>
-Accessed web server logs (Apache/Nginx, if available) & Copied test logs for safe analysis.
+```Accessed web server logs (Apache/Nginx, if available) & Copied test logs for safe analysis.```
 
 <img width="1123" height="720" alt="Screenshot (1147)1" src="https://github.com/user-attachments/assets/31a7b054-1eb6-4dba-a4cc-1bb2f6df051e" />
 
@@ -59,7 +59,7 @@ Accessed web server logs (Apache/Nginx, if available) & Copied test logs for saf
 <br><br>
 
 ### 3. Script Development
-
+<br><br>
 Wrote a Python script that:
  - Opens the log file
  - Gets user input
@@ -80,6 +80,7 @@ Wrote a Python script that:
 
 - Configured the log parser to be python executable
 - Ran the script against real Ubuntu access logs & Fixed parsing errors and refined regex patterns.
+ <br><br>
 <img width="1389" height="878" alt="Screenshot (1146)" src="https://github.com/user-attachments/assets/394bca37-a65d-4005-8b1a-d847114bd97b" />
 <img width="1397" height="866" alt="Screenshot (1147)" src="https://github.com/user-attachments/assets/0baf9b34-768b-4c94-b35d-b89ae5bc358e" />
 
