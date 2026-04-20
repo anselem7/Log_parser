@@ -89,7 +89,7 @@ Wrote a Python script that:
 <br><br>
 
 ### 5. Detecting Security Threats 
-- Extended the script to detect potential attacks
+```Extended the script to detect potential attacks```
 
   <img width="1389" height="865" alt="Screenshot (1149)" src="https://github.com/user-attachments/assets/5f3dd8d6-1875-4f26-a6f3-d9f2a4471579" />
 
