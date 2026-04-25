@@ -13,7 +13,7 @@
 
 - Ubuntu Virtual Machine → to simulate a real server environment.
 
-- Log Files (e.g., /var/log/syslog, Apache access logs).
+- Log Files →(e.g., /var/log/syslog, Apache access logs).
 
 - Regex (Regular Expressions) → for filtering specific patterns from logs.
 
