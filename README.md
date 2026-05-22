@@ -41,6 +41,7 @@
 ### 1. Setup Environment
 <br><br>
 ```Ensured Python 3 and Apache were configured.```
+<br><br>
 <img width="1419" height="671" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/9da5913e-12ad-4042-a4bb-404b9f7c9539" />
 
 *Installed Ubuntu on a virtual machine(VirtualBox)*
