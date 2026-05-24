@@ -37,13 +37,11 @@
 
 ## 📈 Steps Taken
 
-<br><br>
 ### 1. Setup Environment
 <br><br>
 ```Ensured Python 3 and Apache were configured.```
 <br><br>
 <img width="1419" height="671" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/9da5913e-12ad-4042-a4bb-404b9f7c9539" />
-
 *Installed Ubuntu on a virtual machine(VirtualBox)*
 <br><br>
 <br><br>
@@ -60,10 +58,10 @@
 
 ### 3. Script Development
 <br><br>
-Wrote a Python script that:
- - Opens the log file
- - Gets user input
- - Search & output the ip address in the log file  
+```- Wrote a Python script that:```<br>
+```- Opens the log file```<br>
+```- Gets user input```<br>
+```- Search & output the ip address in the log file  ```
 
 <img width="1403" height="874" alt="Screenshot (1144)" src="https://github.com/user-attachments/assets/a446cfef-f0df-4cc5-8324-ffdc9ae62298" />
 
