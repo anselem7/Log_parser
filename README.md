@@ -58,7 +58,7 @@
 
 ### 3. Script Development
 <br><br>
-```- Wrote a Python script that:```<br>
+``` Wrote a Python script that:```<br>
 ```- Opens the log file```<br>
 ```- Gets user input```<br>
 ```- Search & output the ip address in the log file  ```
@@ -76,8 +76,8 @@
 
 ### 4. Testing & Debugging
 
-- Configured the log parser to be python executable
-- Ran the script against real Ubuntu access logs & Fixed parsing errors and refined regex patterns.
+```- Configured the log parser to be python executable``` <br>
+```- Ran the script against real Ubuntu access logs & Fixed parsing errors and refined regex patterns.```
  <br><br>
 <img width="1389" height="878" alt="Screenshot (1146)" src="https://github.com/user-attachments/assets/394bca37-a65d-4005-8b1a-d847114bd97b" />
 <img width="1397" height="866" alt="Screenshot (1147)" src="https://github.com/user-attachments/assets/0baf9b34-768b-4c94-b35d-b89ae5bc358e" />
