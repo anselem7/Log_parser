@@ -67,9 +67,7 @@
 
 *Nano python script*
 <br><br>
-<br><br>
 <img width="1396" height="877" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/a84cf288-442b-403f-909d-189f16cd2285" />
-
 *Command line*
 <br><br>
 <br><br>
@@ -81,7 +79,6 @@
  <br><br>
 <img width="1389" height="878" alt="Screenshot (1146)" src="https://github.com/user-attachments/assets/394bca37-a65d-4005-8b1a-d847114bd97b" />
 <img width="1397" height="866" alt="Screenshot (1147)" src="https://github.com/user-attachments/assets/0baf9b34-768b-4c94-b35d-b89ae5bc358e" />
-
 *Command line 2&3*
 <br><br>
 <br><br>
@@ -90,7 +87,6 @@
 ```Extended the script to detect potential attacks```
 
   <img width="1389" height="865" alt="Screenshot (1149)" src="https://github.com/user-attachments/assets/5f3dd8d6-1875-4f26-a6f3-d9f2a4471579" />
-
 *Nano python script 2*
 <br><br>
 <br><br>
