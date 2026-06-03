@@ -40,7 +40,7 @@
 ### 1. Setup Environment
 <br><br>
 ```Ensured Python 3 and Apache were configured.```
-<br><br>
+
 <img width="1419" height="671" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/9da5913e-12ad-4042-a4bb-404b9f7c9539" />
 *Installed Ubuntu on a virtual machine(VirtualBox)*
 <br><br>
@@ -85,6 +85,7 @@
 
 ### 5. Detecting Security Threats 
 ```Extended the script to detect potential attacks```
+
 <img width="1389" height="865" alt="Screenshot (1149)" src="https://github.com/user-attachments/assets/5f3dd8d6-1875-4f26-a6f3-d9f2a4471579" />
 *Nano python script 2*
 <br><br>
