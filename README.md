@@ -38,7 +38,7 @@
 ## 📈 Steps Taken
 
 ### 1. Setup Environment
-<br><br>
+
 ```Ensured Python 3 and Apache were configured.```
 
 <img width="1419" height="671" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/9da5913e-12ad-4042-a4bb-404b9f7c9539" />
@@ -47,7 +47,7 @@
 <br><br>
 
 ### 2. Log Collection
-<br><br>
+
 ```Accessed web server logs (Apache/Nginx, if available) & Copied test logs for safe analysis.```
 
 <img width="1123" height="720" alt="Screenshot (1147)1" src="https://github.com/user-attachments/assets/31a7b054-1eb6-4dba-a4cc-1bb2f6df051e" />
@@ -57,7 +57,7 @@
 <br><br>
 
 ### 3. Script Development
-<br><br>
+
 ``` Wrote a Python script that:```<br>
 ```- Opens the log file```<br>
 ```- Gets user input```<br>
@@ -83,9 +83,10 @@
 <br><br>
 <br><br>
 
-### 5. Detecting Security Threats 
-```Extended the script to detect potential attacks```
+### 5. Detecting Security Threats
 
+```Extended the script to detect potential attacks```
+<br><br>
 <img width="1389" height="865" alt="Screenshot (1149)" src="https://github.com/user-attachments/assets/5f3dd8d6-1875-4f26-a6f3-d9f2a4471579" />
 *Nano python script 2*
 <br><br>
