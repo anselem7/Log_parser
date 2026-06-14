@@ -43,7 +43,7 @@
 
 <img width="1419" height="671" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/9da5913e-12ad-4042-a4bb-404b9f7c9539" />
 
-*Installed Ubuntu on a virtual machine(VirtualBox)*
+*Image: Installed Ubuntu on a virtual machine(VirtualBox)*
 <br><br>
 <br><br>
 
@@ -53,7 +53,7 @@
 
 <img width="1123" height="720" alt="Screenshot (1147)1" src="https://github.com/user-attachments/assets/31a7b054-1eb6-4dba-a4cc-1bb2f6df051e" />
 
-*Access Apache access.log file and copied it to my_logs.log file*
+*Image: Access Apache access.log file and copied it to my_logs.log file*
 <br><br>
 <br><br>
 
@@ -66,7 +66,7 @@
 
 <img width="1403" height="874" alt="Screenshot (1144)" src="https://github.com/user-attachments/assets/a446cfef-f0df-4cc5-8324-ffdc9ae62298" />
 
-*Nano python script*
+*Image: Nano python script*
 <br><br>
 <img width="1396" height="877" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/a84cf288-442b-403f-909d-189f16cd2285" />
 *Command line*
@@ -80,7 +80,7 @@
  <br><br>
 <img width="1389" height="878" alt="Screenshot (1146)" src="https://github.com/user-attachments/assets/394bca37-a65d-4005-8b1a-d847114bd97b" />
 <img width="1397" height="866" alt="Screenshot (1147)" src="https://github.com/user-attachments/assets/0baf9b34-768b-4c94-b35d-b89ae5bc358e" />
-*Command line 2&3*
+*Image: Command line 2&3*
 <br><br>
 <br><br>
 
@@ -89,7 +89,7 @@
 ```Extended the script to detect potential attacks```
 <br><br>
 <img width="1389" height="865" alt="Screenshot (1149)" src="https://github.com/user-attachments/assets/5f3dd8d6-1875-4f26-a6f3-d9f2a4471579" />
-*Nano python script 2*
+*Image: Nano python script 2*
 <br><br>
 <br><br>
 
