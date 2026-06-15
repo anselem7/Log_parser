@@ -69,7 +69,7 @@
 *Image: Nano python script*
 <br><br>
 <img width="1396" height="877" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/a84cf288-442b-403f-909d-189f16cd2285" />
-*Command line*
+*Image: Command line*
 <br><br>
 <br><br>
 
