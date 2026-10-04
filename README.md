@@ -43,7 +43,7 @@
 
 <img width="1419" height="671" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/9da5913e-12ad-4042-a4bb-404b9f7c9539" />
 
-*Image: Installed Ubuntu on a virtual machine(VirtualBox)*
+***Image**: Installed Ubuntu on a virtual machine(VirtualBox)*
 <br><br>
 <br><br>
 
