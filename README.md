@@ -53,7 +53,7 @@
 
 <img width="1123" height="720" alt="Screenshot (1147)1" src="https://github.com/user-attachments/assets/31a7b054-1eb6-4dba-a4cc-1bb2f6df051e" />
 
-*Image: Access Apache access.log file and copied it to my_logs.log file*
+***Image**: Access Apache access.log file and copied it to my_logs.log file*
 <br><br>
 <br><br>
 
