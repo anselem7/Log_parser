@@ -66,7 +66,7 @@
 
 <img width="1403" height="874" alt="Screenshot (1144)" src="https://github.com/user-attachments/assets/a446cfef-f0df-4cc5-8324-ffdc9ae62298" />
 
-*Image: Nano python script*
+***Image**: Nano python script*
 <br><br>
 <img width="1396" height="877" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/a84cf288-442b-403f-909d-189f16cd2285" />
 *Image: Command line*
