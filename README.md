@@ -39,7 +39,7 @@
 
 ### 1. Setup Environment
 
-```Ensured Python 3 and Apache were configured.```
+```Ensured Python 3 and Apache were configured```
 
 <img width="1419" height="671" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/9da5913e-12ad-4042-a4bb-404b9f7c9539" />
 
@@ -76,7 +76,7 @@
 ### 4. Testing & Debugging
 
 ```- Configured the log parser to be python executable``` <br>
-```- Ran the script against real Ubuntu access logs & Fixed parsing errors and refined regex patterns.```
+```- Ran the script against real Ubuntu access logs & Fixed parsing errors and refined regex patterns```
  <br><br>
 <img width="1389" height="878" alt="Screenshot (1146)" src="https://github.com/user-attachments/assets/394bca37-a65d-4005-8b1a-d847114bd97b" />
 ***Image**: Command line 2*
