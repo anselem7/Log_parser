@@ -98,4 +98,4 @@
 
 ## ✅ Conclusion
 
-This project gave me practical exposure to log analysis, Python scripting, and Linux systems. By creating a log parser in a simulated Ubuntu environment, I built a foundation for cybersecurity monitoring and automation scripting. It also strengthened my ability to document, version control, and present technical work effectively for real-world applications.
+This project gave me practical exposure to log analysis, Python scripting, and Linux systems. By creating a **log parser** in a simulated Ubuntu environment, I built a foundation for cybersecurity monitoring and automation scripting. It also strengthened my ability to document, version control, and present technical work effectively for real-world applications.
