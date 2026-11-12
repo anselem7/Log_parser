@@ -9,7 +9,7 @@
 
 ## 🛠️ Tools Used 
 
-- Python 3 → for writing the log parser.
+- Python 3: for writing the log parser.
 
 - Ubuntu Virtual Machine → to simulate a real server environment.
 
