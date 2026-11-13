@@ -11,7 +11,7 @@
 
 - Python 3: for writing the log parser.
 
-- Ubuntu Virtual Machine → to simulate a real server environment.
+- Ubuntu Virtual Machine: to simulate a real server environment.
 
 - Log Files →(e.g., /var/log/syslog, Apache access logs).
 
