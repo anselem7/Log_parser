@@ -15,7 +15,7 @@
 
 - Log Files: (e.g., /var/log/syslog, Apache access logs).
 
-- Regex (Regular Expressions) → for filtering specific patterns from logs.
+- Regex (Regular Expressions): for filtering specific patterns from logs.
 
 - Nano → for script editing.
 
