@@ -17,7 +17,7 @@
 
 - Regex (Regular Expressions): for filtering specific patterns from logs.
 
-- Nano → for script editing.
+- Nano: for script editing.
 
 <br><br>
 
